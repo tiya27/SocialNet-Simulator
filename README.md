@@ -1,7 +1,5 @@
 # SocialNet Simulator
 
-### COL106 — Long Assignment 2
-
 **Author:** Tiya Mittal
 
 ---
